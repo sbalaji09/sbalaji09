@@ -1,16 +1,15 @@
-## Hi there 👋
+hey, i'm siddharth
+cs @ cal poly slo · building things that probably should already exist
+currently:
 
-<!--
-**sbalaji09/sbalaji09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+making ai agents easier to debug → orbis
+wrote a search engine in rust because i wanted to understand how they actually work
+building infra @ codebox, shipping features @ hack4impact
 
-Here are some ideas to get you started:
+recent stuff i'm proud of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+researchq — rag app for synthesizing research papers
+patent discovery — turned 20+ hours of legal research into a few minutes
+
+i like: rust, systems programming, figuring out how things work under the hood
+📫 siddharthbalaji6@gmail.com
